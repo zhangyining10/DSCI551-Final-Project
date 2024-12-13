@@ -1,2 +1,2 @@
-password = "IamJamesBond007!"
-database = "dcci551-final"
+password = “Put Your Password Here”
+database = "Put Your DataBase Here"
