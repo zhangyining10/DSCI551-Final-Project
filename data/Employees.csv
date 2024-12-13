@@ -1,0 +1,33 @@
+﻿id,name,age,title,department_id,salary
+0,John Q,29,Data Engineer,1,85000
+1,John W,29,Data Engineer,1,85000
+2,Peter J,30,Software Engineer,1,90000
+3,Jane S,32,Software Engineer,2,95000
+4,Lily W,26,Data Scientist,3,87000
+5,Miles M,24,Data Engineer,4,80000
+6,Tom E,22,Data Scientist,4,75000
+7,Alice A,27,Software Engineer,4,89000
+8,Cici L,35,Machine Learning Engineer,4,115000
+9,Hanbo W,43,Software Engineer,4,120000
+10,Joe J,29,Machine Learning Engineer,1,95000
+11,Louis C,33,Data Engineer,5,96000
+12,Toogood T,28,Product Manager,5,93000
+13,Sally S,45,Product Manager,5,125000
+14,Haland L,40,UI/UX,2,98000
+15,Messi M,36,UI/UX,3,102000
+16,Lucy Q,35,UI/UX,4,100000
+17,Chris P,31,Data Scientist,6,94000
+18,Sarah L,29,Product Manager,7,91000
+19,Victor Z,38,Data Engineer,8,108000
+20,Rachel K,27,UI/UX,9,87000
+21,Kevin H,26,Software Engineer,10,86000
+22,Emily B,34,Machine Learning Engineer,6,98000
+23,Olivia T,32,Data Scientist,7,95000
+24,Jason D,28,Product Manager,8,92000
+25,Daniel R,30,Software Engineer,9,91000
+26,Nina J,33,UI/UX,10,95000
+27,Paul F,39,Data Engineer,6,110000
+28,Sophia M,25,Machine Learning Engineer,7,86000
+29,Liam Y,36,Product Manager,8,107000
+30,Emma C,29,UI/UX,9,89000
+31,George H,41,DevOps Engineer,10,115000

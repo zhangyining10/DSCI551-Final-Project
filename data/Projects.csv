@@ -1,0 +1,17 @@
+﻿id,name,department_id,budget,status
+0,Data Platform,2,10000,YES
+1,Data Platform,3,30000,NO
+2,Website Testing,1,20000,YES
+3,Data Platform,4,15000,NO
+4,Data Platform,7,12000,YES
+5,Audit,3,3000,NO
+6,Audit,4,2000,YES
+7,Audit,4,3500,YES
+8,Website Testing,1,20000,YES
+9,System Renewal,2,1500,NO
+10,System Renewal,6,1800,NO
+11,System Renewal,7,2500,YES
+12,Deploy Customer System,6,3000,YES
+13,Deploy Customer System,5,5000,YES
+14,Deploy Customer System,4,7000,NO
+15,Deploy Customer System,2,5000,NO
