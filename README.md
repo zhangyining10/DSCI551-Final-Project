@@ -6,3 +6,9 @@ If choose 3, choose one keyword provided by ChatDB.
 If choose 4, put your sentence in the terminal that you want. 
 Once you finish one operation, choose one another operation again. 
 If you want to quit the chatDB, press Ctrl + C to stop the program. 
+
+# Project Structure 
+Data Folder contains the three csv files and you can change the files with your own file. 
+main.py inculde all the logic and operations for the ChatDB. 
+query_generator.py contains all necessary functions used for generating query. 
+upload_data.py contains the functions used for uploading data to MySQL databases. 
